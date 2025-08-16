@@ -1,8 +1,6 @@
 # Data_Visualization_Credit_Risk_Analysis
 This project explores data visualization techniques in R. It includes data cleaning, analysis, and the creation of visualizations such as histograms, scatter plots, boxplots, and bar charts using ggplot2 and tidyverse to highlight key patterns and insights in the dataset.
 
-# Data Visualization Credit Rsik Analysis
-
 This repository contains the work completed for **Data Visualization Assignment 2** in R.  
 The project explores data visualization techniques in R using `ggplot2` and other relevant packages.
 
